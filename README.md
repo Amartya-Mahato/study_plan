@@ -2,7 +2,8 @@
 
 ## AIML
 
-1. Introduction
+### 1. Introduction
+
     - [ ] AI Introduction
     - [ ] Problem Solving
     - [ ] Production Systems
@@ -18,7 +19,8 @@
         - [ ] Constraint Satisfaction Problems Game Playing Minmax search
             - [ ] Alpha-Beta cutoffs
 
-2. Knowledge Representation
+### 2. Knowledge Representation
+
     - [ ] Knowledge agent
     - [ ] Propositional and Predicate logic
     - [ ] WFF
@@ -37,7 +39,8 @@
             - [ ] Scripts
             - [ ] Conceptual Dependency formalism
 
-3. Natural Language Processing(NLP) & Planning
+### 3. Natural Language Processing(NLP) & Planning
+
     - [ ] OverView of NLP tasks
     - [ ] Parsing
     - [ ] Recursive Transition Nets (RTN)
@@ -49,7 +52,8 @@
     - [ ] Goal Stack Planning (linear planning)
     - [ ] Non-linear planning using constraint posting
 
-4. Foundations for ML
+### 4. Foundations for ML
+
     - [ ] Machine Learning supervised/unsupervised learning
     - [ ] probably approximately correct (PAC) learning
     - [ ] Bayesian Decision theory
@@ -60,7 +64,8 @@
     - [ ] Bayes estimator
     - [ ] Parametric classification
 
-5. Multivariate Methods
+### 5. Multivariate Methods
+
     - [ ] Multivariate Data
     - [ ] Parameter estimation
     - [ ] Multivariate classification
@@ -71,7 +76,8 @@
 
 ## TOC
 
-1. The Theory of Automata
+### 1. The Theory of Automata
+
     - [ ] Introduction to automata theory
     - [ ] Examples of automata machine
     - [ ] Finite automata as a language acceptor and translator
@@ -85,7 +91,8 @@
     - [ ] Two way finite automata
     - [ ] Applications of finite automata
 
-2. Regular Expressions
+### 2. Regular Expressions
+
     - [ ] Regular expression
     - [ ] Properties of Regular Expression
     - [ ] Finite automata and Regular expressions
@@ -96,7 +103,8 @@
     - [ ] Closure properties of regular sets
     - [ ] Decision algorithm for regular sets and regular grammar
 
-3. Grammars
+### 3. Grammars
+
     - [ ] Definition and types of grammar
     - [ ] Chomsky hierarchy of grammar
     - [ ] Relation between types of grammars
@@ -112,13 +120,15 @@
     - [ ] Pumping lemma from context free language
     - [ ] Decision algorithm for context tree language
 
-4. Push Down Automata
+### 4. Push Down Automata
+
     - [ ] Basic definitions
     - [ ] Deterministic push down automata and non-deterministic push down automata
     - [ ] Acceptance of push down automata
     - [ ] Push down automata and context free language
 
-5. Turning Machine Model
+### 5. Turning Machine Model
+
     - [ ] Representation of Turing Machine Construction of Turing Machine for simple problems
     - [ ] Universal Turing machine and other modifications
     - [ ] Church’s Hypothesis
@@ -130,7 +140,8 @@
 
 ## PCS
 
-1. Amplitude Modulation
+### 1. Amplitude Modulation
+
     - [ ] Need for Modulation
     - [ ] Amplitude Modulation
     - [ ] Amplitude Modulation Index
@@ -144,7 +155,8 @@
     - [ ] Noise in communication systems
     - [ ] Signal to noise ratio Noise performance in AM
 
-2. Angle Modulation
+### 2. Angle Modulation
+
     - [ ] Phase and frequency modulation and their relationship
     - [ ] Frequency deviation, spectrum of FM Signal
     - [ ] BW of FM Signal, Effect of modulation on BW
@@ -153,9 +165,10 @@
     - [ ] Narrow-band F.M. Armstrong and Parameter variation methods of FM generation and FM emodulators
     - [ ] Noise performance in FM and comparison with AM
 
-3. Sampling, Quantization and Coding
+### 3. Sampling, Quantization and Coding
+
     - [ ] Sampling theorem
-    - [ ] Pulse Modulation: 
+    - [ ] Pulse Modulation:
         - [ ] PAM
         - [ ] PPM
         - [ ] PWM
@@ -167,7 +180,8 @@
         - [ ] DM
         - [ ] ADM and their comparative performance evaluation
 
-4. Digital Modulation Techniques
+### 4. Digital Modulation Techniques
+
     - [ ] Modulation techniques for ASK
     - [ ] QASK
     - [ ] FSK
@@ -180,7 +194,8 @@
     - [ ] Comparison of Noise performance of various PSK and FSK systems
     - [ ] Theme Example - Orthogonal Frequency Division Multiplexing (OFDM)
 
-5. Advanced Commiunicatin Techniques
+### 5. Advanced Commiunicatin Techniques
+
     - [ ] Satellite Communication:
         - [ ] Satellite orbits and positioning
         - [ ] Satellite Communication Systems
@@ -198,7 +213,8 @@
 
 ## SEPM
 
-1. Introduction to Software Engineering, Software Process Models
+### 1. Introduction to Software Engineering, Software Process Models
+
     - [ ] Software Engineering Fundamentals:
         - [ ] Software Engineering Principles
         - [ ] The Software Process
@@ -213,7 +229,8 @@
     - [ ] Advanced Process Models & Tools:
         - [ ] Agile software development
 
-2. Software Requirements Engineering & Analysis
+### 2. Software Requirements Engineering & Analysis
+
     - [ ] Requirements Engineering:
         - [ ] User and system requirements
         - [ ] Functional and non-functional requirements
@@ -227,7 +244,8 @@
         - [ ] Requirements validation
         - [ ] Requirements management.
 
-3. Design Engineering
+### 3. Design Engineering
+
     - [ ] Design Process & quality
     - [ ] Design Concepts
     - [ ] the design Model
@@ -239,7 +257,8 @@
     - [ ] bottom up strategies
     - [ ] stepwise refinement
 
-4. Project Management
+### 4. Project Management
+
     - [ ] The Management Spectrum
     - [ ] People, Product
     - [ ] Process
@@ -273,7 +292,8 @@
         - [ ] SCM process
         - [ ] CMM-Capability Maturity Model
 
-5. Software Testing, Maintenance & Reengineering
+### 5. Software Testing, Maintenance & Reengineering
+
     - [ ] Introduction to Software Testing
     - [ ] Principles of Testing
     - [ ] Verification and Validation
@@ -296,7 +316,8 @@
 
 ## ANN
 
-1. Basics of Artificial Neural Networks
+### 1. Basics of Artificial Neural Networks
+
     - [ ] Trends in Computing
     - [ ] Pattern & Data
     - [ ] Pattern Recognition Tasks
@@ -313,7 +334,8 @@
     - [ ] Basic Learning Laws
     - [ ] Network Architectures
 
-2. Fundamental Models of Artificial Neural Networks
+### 2. Fundamental Models of Artificial Neural Networks
+
     - [ ] Activation And Synaptic Dynamics
         - [ ] Introduction
         - [ ] Activation Dynamics Models
@@ -327,7 +349,8 @@
         - [ ] Hebb Net
         - [ ] Perceptron Networks
 
-3. Adaline and medaline Networks
+### 3. Adaline and medaline Networks
+
     - [ ] Introduction,Adaline
         - [ ] Architecture, Algorithm
         - [ ] Application Algorithm
@@ -339,7 +362,8 @@
         - [ ] Auto Associative Memory Network
         - [ ] Bi-Directional Associative Memory
 
-4. Feedback Networks
+### 4. Feedback Networks
+
     - [ ] Discrete Hopfield Net
         - [ ] Architecture, Training Algorithm
         - [ ] Continuous Hopfiled Net
@@ -349,7 +373,8 @@
             - [ ] Selection of Parameters
         - [ ] Radial Basis function Network
 
-5. Application of Neural Networks
+### 5. Application of Neural Networks
+
     - [ ] Application of Neural Networks in
         - [ ] Bioinformatics
         - [ ] Image Processing & Compression
